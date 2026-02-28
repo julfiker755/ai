@@ -26,6 +26,7 @@ Looking to generate beautiful websites effortlessly? These website generators ar
 |---------------------|--------------------------------------------------------------------|
 | [**v0**](https://v0.app/)        | A fast and efficient website generator with elegant, reusable components built using Tailwind CSS and Radix UI. Ideal for building modern, responsive websites. |
 | [**lovable**](https://lovable.dev/)  | A user-friendly website generator that empowers you to build delightful websites with reusable components based on Tailwind CSS and Radix UI. |
+| [**aistudio**](https://aistudio.google.com/)  | A user-friendly website generator that empowers you to build delightful websites with reusable components based on Tailwind CSS |
 
 ---
 
