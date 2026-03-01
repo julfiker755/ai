@@ -16,6 +16,7 @@ Explore a selection of advanced AI libraries that offer reusable components and 
 | [**gemini.**](https://gemini.google.com/app)     | A powerful AI toolkit that offers reusable, Tailwind CSS-based components designed to enhance user experience and interface design. |
 | [**deepseek.com**](https://www.deepseek.com/)   | A comprehensive platform with reusable AI components, optimized for rapid integration using Tailwind CSS and Radix UI. |
 | [**blackbox**](https://www.blackbox.ai)   | A comprehensive platform with reusable AI components, optimized for rapid integration using Tailwind CSS and Radix UI. |
+| [**copilot**](https://copilot.microsoft.com/)   | A comprehensive platform with reusable AI components, optimized for rapid integration using copilot. |
 
 ---
 
