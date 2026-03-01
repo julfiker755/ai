@@ -31,8 +31,6 @@ A curated collection of AI-related tools, libraries, website generators, and cod
 
 ## 💻 Code Editors
 
-Discover powerful code editors designed to optimize your development workflow. These tools come with robust features and integrations to enhance your coding experience.
-
 | Code Editor        | Description                                                        |
 |--------------------|--------------------------------------------------------------------|
 | [**cursor**](https://cursor.com/)          | An intuitive and feature-rich code editor built with Tailwind CSS and Radix UI, making your coding experience smoother and faster. |
