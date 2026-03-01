@@ -6,8 +6,6 @@ A curated collection of AI-related tools, libraries, website generators, and cod
 
 ## 🎨 AI Libraries
 
-Explore a selection of advanced AI libraries that offer reusable components and a smooth development experience. These libraries integrate seamlessly with modern design systems like Tailwind CSS and Radix UI.
-
 | Library              | Description                                                        |
 |----------------------|--------------------------------------------------------------------|
 | [**stitch**](https://stitch.withgoogle.com/)     | A robust library offering elegant, reusable components tailored for rapid development, built with Tailwind CSS and Radix UI. |
@@ -22,8 +20,6 @@ Explore a selection of advanced AI libraries that offer reusable components and 
 ---
 
 ## 🌐 Website Generators
-
-Looking to generate beautiful websites effortlessly? These website generators are built with the same elegant, reusable components, helping you build modern, responsive sites in no time.
 
 | Website Generator   | Description                                                        |
 |---------------------|--------------------------------------------------------------------|
