@@ -16,6 +16,7 @@ A curated collection of AI-related tools, libraries, website generators, and cod
 | [**blackbox**](https://www.blackbox.ai)   | A comprehensive platform with reusable AI components, optimized for rapid integration using Tailwind CSS and Radix UI. |
 | [**copilot**](https://copilot.microsoft.com/)   | A comprehensive platform with reusable AI components, optimized for rapid integration using copilot. |
 | [**perplexity**](https://www.perplexity.ai/)   | A comprehensive platform with reusable AI components, optimized for rapid integration using perplexity |
+| [**replit**](https://replit.com/)   | A comprehensive platform with reusable AI components, optimized for rapid integration using replit |
 
 ---
 
