@@ -17,6 +17,7 @@ A curated collection of AI-related tools, libraries, website generators, and cod
 | [**copilot**](https://copilot.microsoft.com/)   | A comprehensive platform with reusable AI components, optimized for rapid integration using copilot. |
 | [**perplexity**](https://www.perplexity.ai/)   | A comprehensive platform with reusable AI components, optimized for rapid integration using perplexity |
 | [**replit**](https://replit.com/)   | A comprehensive platform with reusable AI components, optimized for rapid integration using replit |
+| [**motionsites**](https://motionsites.ai/)   | A comprehensive platform with reusable AI components, ai promots |
 
 ---
 
